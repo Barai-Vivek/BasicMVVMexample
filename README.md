@@ -1,2 +1,2 @@
-# BasicBasicMVVMexample
+# BasicMVVMexample
 This is a very simple example of MVVM architechure.
